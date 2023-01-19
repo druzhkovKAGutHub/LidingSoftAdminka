@@ -1,0 +1,48 @@
+[{
+    "Number": "1",
+    "Fast": "Джордж Вашингтон",
+    "DateOfBirth": "1732",
+    "DateOfDeath": "1799",
+    "GovernmentStart": "30 апреля 1789",
+    "GovernmentStop": "4 марта 1797"
+},
+{
+  "Number": "2",
+  "Fast": "Джон Адамс",
+  "DateOfBirth": "1735",
+  "DateOfDeath": "1826",
+  "GovernmentStart": "4 марта 1797",
+  "GovernmentStop": "4 марта 1801"
+},
+{
+"Number": "3",
+"Fast": "Томас Джефферсон",
+"DateOfBirth": "1743",
+"DateOfDeath": "1826",
+"GovernmentStart": "4 марта 1801",
+"GovernmentStop": "4 марта 1809"
+},
+{
+"Number": "4",
+"Fast": "Джеймс Мэдисон",
+"DateOfBirth": "1751",
+"DateOfDeath": "1836",
+"GovernmentStart": "4 марта 1809",
+"GovernmentStop": "4 марта 1817"
+},
+{
+"Number": "5",
+"Fast": "Джеймс Монро",
+"DateOfBirth": "1758",
+"DateOfDeath": "1831",
+"GovernmentStart": "4 марта 1817",
+"GovernmentStop": "4 марта 1825"
+},
+{
+"Number":"6",
+"Fast": "Джон Куинси Адамс",
+"DateOfBirth": "1767",
+"DateOfDeath": "1848",
+"GovernmentStart": "4 марта 1825",
+"GovernmentStop":"4 марта 1829"
+}]
